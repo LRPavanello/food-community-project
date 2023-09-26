@@ -4,7 +4,7 @@ Welcome to the Foodary project! In this tutorial, you will learn how to build a 
 
 ## Video Introduction
 
-<div aling=center>[![Link Preview Video]](https://www.youtube.com/watch?v=CdeIExkuJUw)</div>
+<div aling=center>[Link Preview Video](https://www.youtube.com/watch?v=CdeIExkuJUw)</div>
 <img src="cover.png" alt="print" width="auto"  height="auto" />
 
 ## Table of Contents
