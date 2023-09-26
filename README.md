@@ -8,7 +8,9 @@ Welcome to the Foodary project! In this tutorial, you will learn how to build a 
 
 ## Video Introduction
 
-[![Watch the video]](https://www.youtube.com/watch?v=CdeIExkuJUw)
+<img src="cover.png" alt="print" width="auto"  height="auto" />
+
+![Watch the video](https://www.youtube.com/watch?v=CdeIExkuJUw)
 
 ## Table of Contents
 
