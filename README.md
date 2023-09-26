@@ -2,15 +2,10 @@
 
 Welcome to the Foodary project! In this tutorial, you will learn how to build a fully functioning multi-page application called Foodary, a platform where the food community can share their favorite recipes online. This project will help you apply the knowledge you've gained from previous tutorials on React, including understanding state lifecycles, state management, and page navigation with React Router.
 
-# Foodary - A Recipe Sharing Platform
-
-Welcome to the Foodary project! In this tutorial, you will learn how to build a fully functioning multi-page application called Foodary, a platform where the food community can share their favorite recipes online. This project will help you apply the knowledge you've gained from previous tutorials on React, including understanding state lifecycles, state management, and page navigation with React Router.
-
 ## Video Introduction
 
-<img src="cover.png" alt="print" width="auto"  height="auto" />
-
 [![Link Preview Video]](https://www.youtube.com/watch?v=CdeIExkuJUw)
+<img src="cover.png" alt="print" width="auto"  height="auto" />
 
 ## Table of Contents
 
